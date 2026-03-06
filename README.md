@@ -29,9 +29,9 @@ Each category stores slightly different information relevant to that group.
 Users can search members by:
 
 - Name
-- JDM
+- JDM (small group)
 - Komisi
-- SOM
+- SOM (Team)
 
 Search results are displayed in a table view inside the application.
 
