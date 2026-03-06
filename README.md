@@ -71,10 +71,9 @@ Members are first inserted into the Jemaat table and then classified into the ap
 
 ## Project Structure
 
-`
-├── database.py
-└── README.md
-`
+- database.py
+- README.md
+
 database.py contains the full implementation of the application including:
 
 - GUI interface
